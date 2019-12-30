@@ -1,4 +1,4 @@
-# simplelinearregression
+# Simple Linear Regression
 
 We will be implementing the most basic machine learning model, which is simple linear regression model.
 
